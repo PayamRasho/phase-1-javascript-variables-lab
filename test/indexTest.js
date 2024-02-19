@@ -1,5 +1,8 @@
 require ( './helpers.js' );
 
+let mostProfitableNeighborhood="Chelsea";
+let companyCeo="Susan Smith";
+const companyName="Scuber";
 const fs = require('fs')
 const path = require('path')
 
